@@ -1,11 +1,8 @@
 package org.example;
 
-/**
-* by chaihao
-*/
 public class GitTest {
 
-    public static void main(String[] args) {
-
-    }
+    private static final String str = "str";
+    private static final String str2 = "str";
+    private static final String str3 = "str";
 }
