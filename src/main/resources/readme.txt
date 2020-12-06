@@ -12,6 +12,8 @@ new 10 line
 
 branch test
 
+branch test 2
+
 new 11 line
 
 new 12 line
