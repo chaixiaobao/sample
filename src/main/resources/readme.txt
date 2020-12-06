@@ -8,6 +8,8 @@ new line
 
 new 9 line
 
+commit test
+
 new 10 line
 
 branch test
